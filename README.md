@@ -1,2 +1,2 @@
 # backbone-es7-decorators
-BackboneJS ES7 decorators
+Set of BackboneJS ES7 decorators
